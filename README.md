@@ -27,6 +27,7 @@
 <div>
   <a href="https://www.linkedin.com/in/sóstenes-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
   <a href="https://www.instagram.com/sostenes_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"</a>    
-</div>
     
 ![Snake animation](https://github.com/sostenesmsr/sostenesmsr/blob/output/github-contribuition-grid-snake.svg)
+    
+</div>
